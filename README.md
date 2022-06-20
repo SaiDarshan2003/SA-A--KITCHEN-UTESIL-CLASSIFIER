@@ -6,11 +6,11 @@
 4. Using array we find the name of the name of the utensil.
 
 ## Program:
-
+```
 Program to implement 
-Developed by   : R.SOMEASVAR
-RegisterNumber : 212221230103
-
+Developed by   : Sai Darshan G
+RegisterNumber : 212221240047
+```
 
 ## OUTPUT:
 ```
