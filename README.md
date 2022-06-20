@@ -54,4 +54,6 @@ pd.DataFrame(history.history).plot()
 m.summary()
 ```
 2. DEMO VIDEO YOUTUBE LINK:
+ ```
 https://youtu.be/knhcJ7Ac6ik
+```
